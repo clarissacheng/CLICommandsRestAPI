@@ -20,3 +20,12 @@ With the plethora of CLI commands to learn, it is helpful to have an API that re
 * Testing API Endpoints (SwaggerUI & Postman)
 * Currently working on Docker (Container, Image, Deploying on Docker Hub)
 * Currently working on Microsoft Azure (Deployment: Docker Image + SQL Database)
+
+## Application Architecture
+![RestAPIArchitecture](https://github.com/clarissacheng/CLICommandsRestAPI/assets/112114163/c75d4a7e-3262-4d57-9e68-10b48bece639)
+
+## API Endpoints (CRUD):
+![RestAPIEndPoints](https://github.com/clarissacheng/CLICommandsRestAPI/assets/112114163/99dc8362-0dc9-4c24-bbd1-49552c154f93)
+
+
+
